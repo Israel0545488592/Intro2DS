@@ -12,9 +12,10 @@ Models I used in the project: DecisionTreeClassifire
                                                     LiniarRegrassion 
 
 Several terms for model evaluation methods I used in the project:
-Classification :  accuracy – True\False
-                           Recall/sensitivity – TruePosetive\ TruePosetive + FalseNegative
-                          Precision/specificity - TruePosetive\ TruePosetive + FalsePosetive
+Classification :    
++accuracy – True\False
++Recall/sensitivity – TruePosetive\ TruePosetive + FalseNegative
++Precision/specificity - TruePosetive\ TruePosetive + FalsePosetive
                           F1score –  2 * tpr  * fpr \ tpr + fpr 
                           ROC-curve – a graph that shows the tpr & fpr values for each threshold for positive classification
 Regression: MeanSquareError – the average square difference of the predicted value and the real one
