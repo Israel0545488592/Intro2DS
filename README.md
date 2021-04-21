@@ -30,4 +30,3 @@ Attributes of the models class from skilearn I manipulated in the project:
 + max_leaf_nodes - the maximum number of samples required to be at a leaf node(decision_tree)
 + min_samples_leaf - like the privius just the minimum
 + criterion - the criterion atrabute states wich type of calculation the algorithm use to detrmain which split produces the most purity(decision_tree)
-
