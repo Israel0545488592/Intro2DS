@@ -18,9 +18,10 @@ Classification :
 + accuracy – True\False
 + Recall/sensitivity – TruePosetive\ TruePosetive + FalseNegative
 + Precision/specificity - TruePosetive\ TruePosetive + FalsePosetive
-                          F1score –  2 * tpr  * fpr \ tpr + fpr 
-                          ROC-curve – a graph that shows the tpr & fpr values for each threshold for positive classification
-Regression: 
++ F1score –  2 * tpr  * fpr \ tpr + fpr 
++ ROC-curve – a graph that shows the tpr & fpr values for each threshold for positive classification
+
+Regression : 
 + MeanSquareError – the average square difference of the predicted value and the real one
 + MeanAbsolutError – the average absolut value of the difference between the predicted value and the real one
 + R_2 -     1 – (sum of the square of the difference between the real values and the predicted ones)\( sum of the square of the difference between the real values and the mean)
